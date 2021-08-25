@@ -1,6 +1,21 @@
+# CSS Coding Challenge from Frontend Mentor
+Starting my coding journey back in 2020, I was recommended this platform in one of my online classes in Udemy. It is great to practice real world challenges, it helps with strengthening skills and having an idea of what to expect in a real developer job. 
+
+This particular challenge was to recreate a social proof section of a design and printing business website and get it looking as close to the design as possible. Any tools were allowed to complete the challege but I decided it to do it with pure CSS3 to challenge myself and practice my skills. Also, this was the perfect challenge to train the eye for detail!
+
 # Frontend Mentor - Social proof section
 
+### The challenge:
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+
+### My solution:
+
+![My Solution](./images/screen.png)
+
+[See the live version of my solution](https://ibadra.github.io/social-proof-section-master/) 😃
+
+# Instructions of the Challenge:
 
 ## Welcome! 👋
 
